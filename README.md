@@ -11,6 +11,6 @@ I would like to firstly share the certifications I got from Google together with
 
 First of all, let me share Google Certifications I have achived, mostly of which are beginner level. They include:
 
-[Certification List](https://github.com/2tackle/PersonalLocker/blob/master/GoogleAcademyCertifications/CertificationList.png)
+![Certification List](https://github.com/2tackle/PersonalLocker/blob/master/GoogleAcademyCertifications/CertificationList.png)
 
 Key Notes
